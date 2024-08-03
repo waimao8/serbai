@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",林正英
+http://epg.112114.xyz/douyu/218859
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",欧美大片1
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",欧美大片2
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",欧美大片3
+http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2925b2f8712219bfd8f1817c8cf9bc64.png",EX-YU: 24 Kitchen
 http://filex.tv:8080/zubair168188/pak023/302968
 #EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a7fbf15ad668dc2ec1d532915071d713.png",EX-YU: AMC
